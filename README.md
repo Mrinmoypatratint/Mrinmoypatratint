@@ -1,11 +1,6 @@
-<!-- Waterfall Live Background -->
-<h1 align="center">Hi 👋, I'm MRINMOY PATRA</h1>
-<h3 align="center">FULL STACK DEVELOPER / C / C++ / PYTHON</h3>
-
-<!-- Add a Waterfall Animated Background -->
-<div style="position:relative; width:100%; height:auto;">
-  <img src="https://i.giphy.com/media/J2dGBUXITqUnTQFzN0/giphy.gif" alt="Waterfall Background" style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:-1; opacity:0.3;">
-</div>
+<!-- Colorful Background -->
+<h1 align="center" style="background-color: #f3ec78; background-image: linear-gradient(135deg, #f3ec78, #af4261, #f37335, #10ac84, #6a11cb); color: #fff; padding: 20px; border-radius: 10px;">Hi 👋, I'm MRINMOY PATRA</h1>
+<h3 align="center" style="color: #333;">FULL STACK DEVELOPER / C / C++ / PYTHON</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrinmoypatratint&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoypatratint" /> 
