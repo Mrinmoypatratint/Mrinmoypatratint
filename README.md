@@ -1,6 +1,6 @@
-<!-- Waterfall GIF Banner -->
+<!-- Technical GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Waterfall GIF" width="100%">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Technical GIF" width="100%">
 </p>
 
 <h1 align="center" style="color: white;">Hi 👋, I'm MRINMOY PATRA</h1>
