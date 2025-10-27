@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color: white;">Hi 👋, I'm MRINMOY PATRA</h1>
-<h3 align="center" style="color: white;">FULL STACK DEVELOPER / C / C++ / PYTHON</h3>
+<h3 align="center" style="color: white;">Python FULL STACK DEVELOPER </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrinmoypatratint&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoypatratint" />
@@ -16,11 +16,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [UNICOMME](https://github.com/Mrinmoypatratint/Unicomme)
 
 - 🌱 I’m currently learning *MACHINE LEARNING / GEN AI*
 
-- 💬 Ask me about *HTML / CSS / JAVASCRIPT / PYTHON / C / C++*
+- 💬 Ask me about *HTML / CSS / JAVASCRIPT / PYTHON / react js / Nodejs*
 
 - 📫 How to reach me *rajbsmv@gmail.com*
 
